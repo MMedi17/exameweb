@@ -25,6 +25,7 @@ function App() {
     <li>Abra o Github Desktop e coloque sua conta</li>
     <li>Selecione "Create a New Repository on your hard drive..."</li>
     <li>Selecione o projeto que você salvou</li>
+    <li></li>
    </ul>
     </>
   )
