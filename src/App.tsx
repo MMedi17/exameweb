@@ -26,7 +26,9 @@ function App() {
     <li>Logue com a sua conta do Github e siga os passos de validação</li>
     <li>Importe seu projeto na aba de importações do Vercel</li>
     <li>Confira se está tudo Ok e dê Deploy no seu projeto</li>
-    <li></li>
+    <li>Lembre-se de sempre "commitar" e "pushar" seu projeto em qualquer alteração, assim o Vercel vai reconhecer as mudanças feitas</li>
+    <li>Pronto! Seu projeto já está pronto e publicado!</li>
+    <li>Murillo Carvalho RM 550551</li>
 
    </ul>
     </>
