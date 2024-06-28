@@ -1,10 +1,6 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -25,7 +21,13 @@ function App() {
     <li>Abra o Github Desktop e coloque sua conta</li>
     <li>Selecione "Create a New Repository on your hard drive..."</li>
     <li>Selecione o projeto que você salvou</li>
+    <li>Dê commit no seu projeto, após <strong>conferir se está tudo Ok!</strong></li>
+    <li>Vamos para o Vercel, agora</li>
+    <li>Logue com a sua conta do Github e siga os passos de validação</li>
+    <li>Importe seu projeto na aba de importações do Vercel</li>
+    <li>Confira se está tudo Ok e dê Deploy no seu projeto</li>
     <li></li>
+
    </ul>
     </>
   )
